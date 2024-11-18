@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jassen on </title>
+    <link>//localhost:1313/categories/jassen/</link>
+    <description>Recent content in Jassen on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/categories/jassen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jassen</title>
+      <link>//localhost:1313/jassen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/jassen/</guid><media:content url="//localhost:1313/jassen/WhatsApp%20Image%202024-11-17%20at%2023.25.04_hu6060825185943235171.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/jassen/WhatsApp%20Image%202024-11-17%20at%2023.25.04_hu6060825185943235171.jpeg&quot; /&gt;
+          &lt;p&gt;Jassen are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>kleding</title>
+      <link>//localhost:1313/outfit/kleding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/outfit/kleding/</guid><media:content url="//localhost:1313/outfit/kleding/WhatsApp%20Image%202024-11-17%20at%2023.27.08%20%283%29_hu12273453792252215775.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/outfit/kleding/WhatsApp%20Image%202024-11-17%20at%2023.27.08%20%283%29_hu12273453792252215775.jpeg&quot; /&gt;
+          &lt;p&gt;Jassen are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>T-Shirts</title>
+      <link>//localhost:1313/tshirts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tshirts/</guid><media:content url="//localhost:1313/tshirts/WhatsApp%20Image%202024-11-17%20at%2023.27.02_hu16799231865013540714.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/tshirts/WhatsApp%20Image%202024-11-17%20at%2023.27.02_hu16799231865013540714.jpeg&quot; /&gt;
+          &lt;p&gt;T-Shirts are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
