@@ -1,3 +1,5 @@
-module github.com/nicokaiser/hugo-theme-gallery/v4
+module github.com/hichmok93/Asenza.fashion.github.io
 
-go 1.20
+go 1.23.2
+
+require github.com/nicokaiser/hugo-theme-gallery/v4 v4.3.2 // indirect
